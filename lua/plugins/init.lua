@@ -34,6 +34,7 @@ return {
   			"vim", "lua", "vimdoc",
        "html", "css", "clangd", "cpp"
   		},
+      auto_install = true,
   	},
   },
   "nvim-lua/plenary.nvim",
